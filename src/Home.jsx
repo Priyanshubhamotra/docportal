@@ -35,7 +35,7 @@ const DocumentPortal = () => {
 
 const tools = [
   {
-    icon: "/form.png",
+    icon: "https://i.imgur.com/5ZnI1Ne.png",
     title: "Merge Employee Data into Forms",
     description: "Import your employee data and merge that data into all your forms instantly."
   },
