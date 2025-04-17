@@ -14,7 +14,7 @@ const DocumentPortal = () => {
       </div>
       
       <div className="flex justify-center items-center relative">
-        <img src="doc.jpg" alt="Folder Illustration" className="w-2/3" />
+        <img src="https://i.imgur.com/lV4ML8V.jpeg" alt="Folder Illustration" className="w-2/3" />
       </div>
 
       <div className="py-12 bg-white">
@@ -40,17 +40,17 @@ const tools = [
     description: "Import your employee data and merge that data into all your forms instantly."
   },
   {
-    icon: "/photo.png",
+    icon: "https://i.imgur.com/jfNwRBl.png",
     title: "Capture Photos, Passports, and IDs",
     description: "Capture all required documents and store them in one organized place."
   },
   {
-    icon: "/chat.png",
+    icon: "https://i.imgur.com/yrBvOAk.png",
     title: "Send Document Requests via Text",
     description: "Send requests to people for documents that you need."
   },
   {
-    icon: "/Folder.png",
+    icon: "https://i.imgur.com/d2u7O83.png",
     title: "Collect Safety Inspection Forms and Others",
     description: "Remotely collect forms that need to be filled out daily."
   }
