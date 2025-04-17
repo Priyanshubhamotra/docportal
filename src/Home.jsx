@@ -35,22 +35,22 @@ const DocumentPortal = () => {
 
 const tools = [
   {
-    icon: "form.png",
+    icon: "/form.png",
     title: "Merge Employee Data into Forms",
     description: "Import your employee data and merge that data into all your forms instantly."
   },
   {
-    icon: "photo.png",
+    icon: "/photo.png",
     title: "Capture Photos, Passports, and IDs",
     description: "Capture all required documents and store them in one organized place."
   },
   {
-    icon: "chat.png",
+    icon: "/chat.png",
     title: "Send Document Requests via Text",
     description: "Send requests to people for documents that you need."
   },
   {
-    icon: "Folder.png",
+    icon: "/Folder.png",
     title: "Collect Safety Inspection Forms and Others",
     description: "Remotely collect forms that need to be filled out daily."
   }
