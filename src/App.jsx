@@ -6,6 +6,7 @@ import Login from "./Login";
 import DocumentManagement from "./components/Documentmanagement";
 import Register from "./Register";
 import Home from "./Home";
+import Contact from "./Contact";
 
 export default function App() {
   const [user, setUser] = useState(null);
@@ -25,6 +26,7 @@ export default function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/home" element={<Home />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>
   );
